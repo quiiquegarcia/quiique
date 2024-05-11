@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera página web</title>
+    <style>
+        body {
+            text-align: center; /* Centra el contenido horizontalmente */
+        }
+        h1 {
+            text-transform: uppercase; /* Convierte el texto a mayúsculas */
+            margin-bottom: 50px; /* Agrega espacio debajo del texto */
+        }
+    </style>
+</head>
+<body>
+    <h1>REALIZADO</h1>
+    <img src="https://www.diariodesevilla.es/2023/03/05/mascotas/curiosidades-gatos-naranja-unicos-especie_1771932936_178438161_667x375.png" alt="Gato naranja">
+</body>
+</html>
